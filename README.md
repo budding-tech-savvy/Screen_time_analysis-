@@ -1,5 +1,10 @@
-# Screen_time_analysis-
+# Screen Time Analysis:
 Screen Time Analysis is the task of analyzing and creating a report on which applications and websites are used by the user for how much time. Apple devices have one of the best ways of creating a screen time report.
+
+
+![image](https://github.com/budding-tech-savvy/Screen_time_analysis-/assets/117060060/30fcaf17-e39d-4d5b-a767-a710587e0e61)
+         "The child is intensely engaged with the smartphone. However, This illustration is only for representation purposes."
+
 
 
 
